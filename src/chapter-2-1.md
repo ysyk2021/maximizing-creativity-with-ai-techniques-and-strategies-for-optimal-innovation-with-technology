@@ -32,4 +32,4 @@ AI has many applications in creativity, including:
 Conclusion
 ----------
 
-AI technology has many applications in creativity, including content creation, ideation, design, music, and art. By understanding the basics of AI and its applications in creativity, organizations can leverage this technology to improve their creative processes and produce higher quality content. In the next chapter, we'll explore some common applications of AI in creativity in more detail.
+AI technology has many applications in creativity, including content creation, ideation, design, music, and art. By understanding the basics of AI and its applications in creativity, organizations can leverage this technology to improve their creative processes and produce higher quality content.
