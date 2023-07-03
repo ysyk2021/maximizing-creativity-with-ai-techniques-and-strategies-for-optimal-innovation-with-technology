@@ -3,11 +3,6 @@ Examples of Successful Implementation of AI in Creativity
 
 Artificial Intelligence (AI) is a rapidly growing field that has the potential to revolutionize many industries, including creativity. AI can be used to enhance creative processes by providing new tools and techniques for generating ideas, analyzing data, and producing high-quality content. In this chapter, we will discuss the basics of AI and its applications in creativity, with examples of successful implementation of AI in this field.
 
-What is AI?
------------
-
-AI is a branch of computer science that focuses on creating intelligent machines that can perform tasks that would typically require human intelligence, such as language understanding, decision-making, and learning. AI systems use a combination of algorithms, data, and hardware to simulate human-like intelligence.
-
 Applications of AI in Creativity
 --------------------------------
 
