@@ -1,5 +1,3 @@
-Common Applications of AI in Creativity, Including Content Creation and Ideation
-=================================================================================================================================================
 
 Artificial Intelligence (AI) has many applications in creativity. In this chapter, we will explore some common applications of AI in creativity, including content creation and ideation.
 

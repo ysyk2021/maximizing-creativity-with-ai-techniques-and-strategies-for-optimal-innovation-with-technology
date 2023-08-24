@@ -1,5 +1,3 @@
-What is AI and How Does it Work?
-=================================================================================================
 
 Artificial Intelligence (AI) has become an increasingly popular topic in recent years due to its many applications across various industries, including creativity. In this chapter, we will explore what AI is and how it works, as well as the different types of AI.
 

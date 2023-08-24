@@ -1,4 +1,3 @@
-# Introduction
 
 Maximizing Creativity with AI: Techniques and Strategies for Optimal Innovation with Technology is an insightful guide that explores the intersection between creativity and artificial intelligence. In this book, we seek to understand the various ways that AI can enhance our creative processes and lead to optimal innovation.
 

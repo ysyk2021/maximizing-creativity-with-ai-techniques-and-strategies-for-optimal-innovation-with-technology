@@ -1,5 +1,3 @@
-AI-Powered Content Generators for Kickstarting Creativity
-==============================================================================================================================
 
 Machine learning has the potential to revolutionize creativity by providing new tools and techniques for generating ideas, analyzing data, and understanding audience reactions. In this chapter, we will focus on one key area of machine learning-powered inspiration and ideation: using AI-powered content generators to kickstart creativity.
 

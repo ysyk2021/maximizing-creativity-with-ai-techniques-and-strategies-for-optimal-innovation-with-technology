@@ -1,5 +1,3 @@
-Future Developments and Trends in AI-Powered Creativity
-=============================================================================================================================================
 
 AI technology is rapidly evolving, and with it, the possibilities for AI-powered creativity. In this chapter, we will explore some future developments and trends in AI-powered creativity.
 

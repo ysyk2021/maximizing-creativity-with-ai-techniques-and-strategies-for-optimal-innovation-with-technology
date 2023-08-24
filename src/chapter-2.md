@@ -1,5 +1,3 @@
-Chapter 1: Understanding AI and Its Applications in Creativity
-==============================================================
 
 Artificial Intelligence (AI) is a rapidly growing field with applications in many industries, including creativity. In this chapter, we will explore the basics of AI and its applications in creativity.
 

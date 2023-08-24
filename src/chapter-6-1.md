@@ -1,5 +1,3 @@
-Addressing Concerns About Privacy and Security When Using AI in Creative Workflows
-========================================================================================================================================================================
 
 The use of AI technology in creative workflows offers many advantages, but it also raises concerns about privacy and security. In this chapter, we will explore some best practices for addressing these concerns when using AI in creative workflows.
 
