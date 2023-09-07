@@ -10,3 +10,7 @@ Throughout this book, we will also consider the ethical implications of using AI
 Whether you are a marketer, designer, or entrepreneur, Maximizing Creativity with AI offers valuable insights and practical guidance for anyone seeking to unlock the full potential of AI in their creative processes. Join us on this journey as we explore the cutting-edge of AI-powered creativity.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
