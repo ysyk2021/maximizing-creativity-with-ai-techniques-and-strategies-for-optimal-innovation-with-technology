@@ -1,5 +1,4 @@
-Chapter: Common Applications of AI in Creativity, including Content Creation and Ideation
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

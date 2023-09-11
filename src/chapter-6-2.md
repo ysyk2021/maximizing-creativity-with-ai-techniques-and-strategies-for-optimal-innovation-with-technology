@@ -1,5 +1,4 @@
-Chapter: Best Practices for Integrating AI into Creative Processes while Maintaining Authenticity and Integrity
-===============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

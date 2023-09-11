@@ -1,5 +1,4 @@
-Chapter: AI-Powered Editing and Proofreading Techniques for Refining Content
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

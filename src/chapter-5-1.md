@@ -1,5 +1,4 @@
-Chapter: Personalizing Content for Specific Audiences with Machine Learning-Powered Targeting and Segmentation
-==============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

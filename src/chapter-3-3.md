@@ -1,5 +1,4 @@
-Chapter: Implementing Machine Learning-Powered Sentiment Analysis for Understanding Audience Reactions and Trends
-=================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

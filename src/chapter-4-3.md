@@ -1,5 +1,4 @@
-Chapter: Implementing Machine Learning-Powered Recommendation Engines for Personalized Marketing and Product Offerings
-======================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
